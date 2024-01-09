@@ -1,0 +1,3 @@
+[submodule "MusicInstrumentsClassification"]
+	path = MusicInstrumentsClassification
+	url = https://github.com/BennyWang4000/MusicInstrumentsClassification.git
